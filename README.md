@@ -1,4 +1,4 @@
-## 𝘾𝙝𝙖𝙚𝙀𝙪𝙣 𝙎𝙝𝙞𝙣 🍒
+## 𝘾𝙝𝙖𝙚𝙀𝙪𝙣 𝙎𝙝𝙞𝙣
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:87CEEB&height=300&section=header&text=Hi,%20I'm%20Chaeeun&fontSize=50&fontAlign=75) -->
   
